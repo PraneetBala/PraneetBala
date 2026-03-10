@@ -22,7 +22,7 @@ I'm a Ph.D. Candidate in Computer Science at the **University of Minnesota - Twi
 ### 🌟 Selected Publications & Datasets
 - **[OpenMonkeyChallenge](http://openmonkeychallenge.com):** Dataset and Benchmark Challenges for Pose Estimation of Non-human Primates (IJCV '23)
 - **Self-supervised Secondary Landmark Detection via 3D Representation Learning** (IJCV '23)
-- **[Automated Markerless Pose Estimation in Freely Moving Macaques](https://openmonkeystudio.com)** (Nature Communications '20)
+- **[Automated Markerless Pose Estimation in Freely Moving Macaques]([https://openmonkeystudio.com](https://www.nature.com/articles/s41467-020-18441-5))** (Nature Communications '20)
 
 ### 📈 GitHub Stats
 <!-- To add dynamic stats, you can use github-readme-stats widgets here -->
