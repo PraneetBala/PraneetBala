@@ -24,9 +24,9 @@ I'm a Ph.D. Candidate in Computer Science at the **University of Minnesota - Twi
 - **Self-supervised Secondary Landmark Detection via 3D Representation Learning** (IJCV '23)
 - **[Automated Markerless Pose Estimation in Freely Moving Macaques]([https://openmonkeystudio.com](https://www.nature.com/articles/s41467-020-18441-5))** (Nature Communications '20)
 
-### 📈 GitHub Stats
+<!-- ### 📈 GitHub Stats -->
 <!-- To add dynamic stats, you can use github-readme-stats widgets here -->
-![Praneet's GitHub stats](https://github-readme-stats.vercel.app/api?username=PraneetBala&show_icons=true&theme=radical)
+<!-- ![Praneet's GitHub stats](https://github-readme-stats.vercel.app/api?username=PraneetBala&show_icons=true&theme=radical) -->
 
 ---
 *Feel free to explore my repositories below. If you'd like to collaborate or chat about 3D Vision, generative AI, or neuroengineering, feel free to reach out via LinkedIn or email!*
