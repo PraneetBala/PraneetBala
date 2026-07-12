@@ -7,10 +7,10 @@
 I'm a Ph.D. Candidate in Computer Science at the **University of Minnesota - Twin Cities**, working at the intersection of **Computer Vision, 3D Vision, and Neuroscience**. My research focuses on developing self-supervised frameworks for 3D motion prediction, markerless pose estimation, and understanding the neural correlates of freely moving subjects.
 
 ### 🔬 What I'm currently working on
-- Prototyping a third-person narrative game (**Aghori**) with **Unreal Engine**, simulating supernatural combat and dynamic particle systems using **C++** and **Python**.
 - Designing a video-to-3D pipeline for environmental reconstruction using **Gaussian Splatting** and **COLMAP**.
-- Automating geometric constraint detection for parametric CAD using **Computer Vision** and **Deep Learning**.
 - Researching 3D pose generation with latent diffusion models (**ControlNet**) from multimodal data.
+- Automating geometric constraint detection for parametric CAD using **Computer Vision** and **Deep Learning**.
+- Prototyping a third-person narrative game (**Aghori**) with **Unreal Engine**, simulating supernatural combat and dynamic particle systems using **C++** and **Python**.
 
 ### 🛠️ Tech Stack & Tools
 - **Languages:** Python, C++, MATLAB, JavaScript
