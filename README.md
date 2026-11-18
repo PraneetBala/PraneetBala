@@ -4,29 +4,26 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Praneet_Bala-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/praneet-bala/)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Citations-blue?style=flat&logo=google-scholar)](https://scholar.google.com/citations?hl=en&user=O5vb8MoAAAAJ)
 
-I'm a Ph.D. Candidate in Computer Science at the **University of Minnesota - Twin Cities**, working at the intersection of **Computer Vision, 3D Vision, and Neuroscience**. My research focuses on developing self-supervised frameworks for 3D motion prediction, markerless pose estimation, and understanding the neural correlates of freely moving subjects.
+I recover 3D structure and motion from cameras, grounded in multi-view geometry. I hold a **Ph.D. in Computer Science** from the **University of Minnesota - Twin Cities**, where I built a 62-camera capture system, learned 3D pose with minimal supervision, and forecast 3D motion from single-view video.
 
 ### 🔬 What I'm currently working on
-- Designing a video-to-3D pipeline for environmental reconstruction using **Gaussian Splatting** and **COLMAP**.
-- Researching 3D pose generation with latent diffusion models (**ControlNet**) from multimodal data.
-- Automating geometric constraint detection for parametric CAD using **Computer Vision** and **Deep Learning**.
-- Prototyping a third-person narrative game (**Aghori**) with **Unreal Engine**, simulating supernatural combat and dynamic particle systems using **C++** and **Python**.
+- **Exo-to-ego world modeling:** reconstructing metric 3D scenes with **Gaussian Splatting** from a calibrated multi-view rig, fitting **SMPL-X** bodies within them, and localizing a head-mounted ego camera to recover a person's own view.
+- **3D motion forecasting:** spatiotemporal transformers with **latent diffusion** for long-horizon human motion (manuscript in preparation).
+- **Dimension:** a puzzle game built in **Unreal Engine 5.9** for the 2026 Epic AI MegaJam. I handled world building, character design and animation, and the final level's puzzles. [Play it →](https://mixingmacaque.itch.io/dimension)
+<!-- - **Aghori:** a third-person narrative game in **Unreal Engine** with supernatural combat and dynamic particle systems (**C++**, **Python**). -->
 
 ### 🛠️ Tech Stack & Tools
-- **Languages:** Python, C++, MATLAB, JavaScript
-- **ML Frameworks:** PyTorch, TensorFlow, OpenCV, Keras
-- **Domains:** 3D Reconstruction, Pose Estimation, Diffusion Models, Domain Adaptation
-- **Graphics & Systems:** OpenGL, CUDA, Blender, Unreal Engine, SolidWorks API
-- **MLOps:** Docker, CI/CD, Git
+- **Languages:** Python, C++, MATLAB
+- **ML Frameworks:** PyTorch, TensorFlow, OpenCV
+- **3D & Vision:** Multi-view Geometry, Camera Calibration, COLMAP, Gaussian Splatting, SMPL-X, Pose Estimation
+- **Generative:** Diffusion Models, ControlNet, CLIP
+- **Graphics & Systems:** CUDA, OpenGL, Blender, Unreal Engine
 
 ### 🌟 Selected Publications & Datasets
-- **[OpenMonkeyChallenge](http://openmonkeychallenge.com):** Dataset and Benchmark Challenges for Pose Estimation of Non-human Primates (IJCV '23)
-- **Self-supervised Secondary Landmark Detection via 3D Representation Learning** (IJCV '23)
-- **[Automated Markerless Pose Estimation in Freely Moving Macaques]([https://openmonkeystudio.com](https://www.nature.com/articles/s41467-020-18441-5))** (Nature Communications '20)
-
-<!-- ### 📈 GitHub Stats -->
-<!-- To add dynamic stats, you can use github-readme-stats widgets here -->
-<!-- ![Praneet's GitHub stats](https://github-readme-stats.vercel.app/api?username=PraneetBala&show_icons=true&theme=radical) -->
+- **[Automated Markerless Pose Estimation in Freely Moving Macaques with OpenMonkeyStudio](https://www.nature.com/articles/s41467-020-18441-5)** (Nature Communications '20)
+- **[Self-supervised Secondary Landmark Detection via 3D Representation Learning](https://link.springer.com/article/10.1007/s11263-023-01804-y)** (IJCV '23)
+- **[OpenMonkeyChallenge](https://link.springer.com/article/10.1007/s11263-022-01698-2):** Dataset and Benchmark Challenges for Pose Estimation of Non-human Primates (IJCV '23)
+- **[OpenApePose](https://elifesciences.org/articles/86873):** A Database of Annotated Ape Photographs for Pose Estimation (eLife '23)
 
 ---
-*Feel free to explore my repositories below. If you'd like to collaborate or chat about 3D Vision, generative AI, or neuroengineering, feel free to reach out via LinkedIn or email!*
+*Feel free to explore my repositories below. If you'd like to chat about 3D vision, reconstruction, or human motion, reach out via [LinkedIn](https://www.linkedin.com/in/praneet-bala/) or [email](mailto:balapraneet@gmail.com).*
